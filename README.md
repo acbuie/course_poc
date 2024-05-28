@@ -5,4 +5,4 @@ This is the beginnings of an introductory course for scientific programming. It 
 ---
 
 # License
-This work is licensed under [GNU-GPL](license.txt).
+This work is licensed under [GNU-GPL](LICENSE.txt).
