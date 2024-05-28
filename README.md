@@ -1,3 +1,5 @@
-# eps-course
 
-Describe your project here.
+---
+
+# License
+This work is licensed under [GNU-GPL](license.txt).
